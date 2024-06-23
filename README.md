@@ -6,8 +6,8 @@ Hope I can work aboard in the future.
 
 I will pin some work in the future.
 
-Medium：https://medium.com/@frankflyhuang
-LinkedIn：https://www.linkedin.com/in/frankhuang-963-/
+- Medium：https://medium.com/@frankflyhuang
+- LinkedIn：https://www.linkedin.com/in/frankhuang-963-/
 
 <!--
 **Wei-Hsiang86/Wei-Hsiang86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
