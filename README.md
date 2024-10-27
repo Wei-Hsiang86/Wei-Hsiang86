@@ -4,8 +4,15 @@ I am learning coding now and trying to be a software engineer now.
 Swimming is my favorite exercise as well as free diving.
 Hope I can work aboard in the future.
 
-I will pin some work in the future.
+🌱 My projects：
+- Care Together
+https://github.com/Wei-Hsiang86/care-together
 
+- ABG Calculator
+https://wei-hsiang86.github.io/abg-calculator/
+
+📫 How to reach me:
+- Email：frankflyhuang@gmail.com
 - Medium：https://medium.com/@frankflyhuang
 - LinkedIn：https://www.linkedin.com/in/frankhuang-963-/
 
