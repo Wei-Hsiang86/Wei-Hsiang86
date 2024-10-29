@@ -5,11 +5,11 @@ Swimming is my favorite exercise as well as free diving.
 Hope I can work aboard in the future.
 
 🌱 My projects：
-1. Care Together
+1. Care Together  
 https://github.com/Wei-Hsiang86/care-together
 
-2. ABG Calculator
-You can easily know patient's atrial blood gas result.
+2. ABG Calculator  
+You can easily know patient's atrial blood gas result.  
 https://wei-hsiang86.github.io/abg-calculator/
 
 📫 How to reach me:
